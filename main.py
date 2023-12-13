@@ -19,3 +19,6 @@ cliente.mostrar_lista_de_compras()
 cliente.mostrar_lista_de_favoritos()
 cliente.calcular_total()
 cliente.mostrar_total()
+
+print(cliente)
+print(producto)

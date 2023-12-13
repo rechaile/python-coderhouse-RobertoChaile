@@ -51,4 +51,9 @@ class Cliente:
     # Método para mostrar el total a pagar
     def mostrar_total(self):
         total = self.calcular_total()
-        print(f"El total a pagar es: {total}")
+        print(f"El total a pagar es: ${total}")
+        
+    #Metodo para mostrar nombre de cliente
+    
+    def __str__(self):
+        return f"Cliente {self.nombre} {self.apellido}"
