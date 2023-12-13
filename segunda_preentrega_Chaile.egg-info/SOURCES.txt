@@ -1,0 +1,5 @@
+setup.py
+segunda_preentrega_Chaile.egg-info/PKG-INFO
+segunda_preentrega_Chaile.egg-info/SOURCES.txt
+segunda_preentrega_Chaile.egg-info/dependency_links.txt
+segunda_preentrega_Chaile.egg-info/top_level.txt
