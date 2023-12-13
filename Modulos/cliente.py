@@ -22,7 +22,7 @@ class Cliente:
         self.lista_de_compras.append(producto)
 
         # Devuelve la información del producto
-        return f"El cliente {self.nombre} ha comprado el producto {producto.nombre}."
+        print(f"El cliente {self.nombre} ha a agregado {producto.nombre} al carrito.")
 
     # Método para agregar un producto a favoritos
     def agregar_a_favoritos(self, producto):
